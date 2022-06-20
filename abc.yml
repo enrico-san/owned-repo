@@ -1,6 +1,6 @@
 apis:
   sample123@v1: 
-    root: swagger.yml
+    root: https://github.com/enrico-san/test-redocly/blob/main/openapi/openapi.yaml
 lint:
   extends:
     - recommended
