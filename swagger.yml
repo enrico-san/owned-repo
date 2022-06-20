@@ -12,7 +12,7 @@ info:
   x-logo:
     url: 'https://redocly.github.io/openapi-template/logo.png'
   description:
-    $ref: ./info-description.md
+    $ref: ./info-description-cucu.md
 tags:
   - name: Echo
     description: Example echo operations.
